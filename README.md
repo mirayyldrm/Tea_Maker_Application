@@ -6,8 +6,8 @@ A simulation of a smart tea maker machine developed with **Java** and **Swing UI
 
 | Feature                        | Description                                                                                                          |
 | :----------------------------- | :------------------------------------------------------------------------------------------------------------------- |
-| **State-Driven Simulation**    | robust simulation of machine life-cycle states (Empty, Idle, Boiling, Making Tea, Done) using the **State Pattern**. |
-| **Reactive User Interface**    | dynamic **Java Swing** interface that updates LED indicators, buttons, and messages in real-time via the **Observer Pattern**. |
+| **State-Driven Simulation**    | Robust simulation of machine life-cycle states (Empty, Idle, Boiling, Making Tea, Done) using the **State Pattern**. |
+| **Reactive User Interface**    | Dynamic **Java Swing** interface that updates LED indicators, buttons, and messages in real-time via the **Observer Pattern**. |
 | **Data Persistence & Logging** | Seamless integration with **MySQL** to securely track, store, and retrieve daily and monthly tea consumption records. |
 | **Smart Health Alerts**        | Intelligent warning system utilizing the **Decorator Pattern** to notify users when daily caffeine intake limits are exceeded. |
 | **Context-Aware Controls**     | Interactive control panel where buttons (Fill, Start, Boil, Reset) automatically enable or disable based on the active state. |
